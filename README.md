@@ -1,7 +1,7 @@
 # PHP
 Project to practice PHP
 
-Project 1: WooCommerce Order Health Dashboard
+Project : WooCommerce Order Health Dashboard
 Problem
 
 Store owners often don't know:
