@@ -1,0 +1,6 @@
+ecommerce-app/
+│
+├── config.php          # Database connection settings
+├── index.php           # Display all products
+├── product.php         # Show a single product's details
+└── cart.php            # Add/view cart items
